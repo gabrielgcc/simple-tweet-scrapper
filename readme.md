@@ -17,5 +17,5 @@ writer.writerow([tweet.user, tweet.text, tweet.lang])
 los default son el user id, el texto y el lenguaje del tweet, pero para añadir mas parametros puedes atender a la libreria usada [twikit](https://twikit.readthedocs.io/en/latest/twikit.html#module-twikit.tweet)
 - ejecutar
 ```
-python3 main.py
+python3 main.py hello 50 en hello.csv
 ```
