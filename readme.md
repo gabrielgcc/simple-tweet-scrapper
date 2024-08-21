@@ -8,8 +8,7 @@ pip install twikit
 - poner los parametros necesarios para la ejecucion del script. 
 ```
 COOKIE = 'CARACTERES ALFANUMERICOS DE LA COOKIE DE AUTENTIFICACION DE TU NAVEGADOR'
-WORD = 'PALABRA(S) QUE QUIERAS BUSCAR'
-N = NUMERO DE OCURRENCIAS QUE QUIERAS BUSCAR (DEFAULT = 50)
+args: 1 es la palabra, 2 el numero de ocurrencias, 3 el idioma, 4 el nombre del archivo
 ```
 - si quieres, puedes modificar los parametros que quieres obtener en tu .csv. 
 ```
