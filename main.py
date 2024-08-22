@@ -6,7 +6,7 @@ import sys
 import twikit
 
 ## CONSTANTES: la cookie, palabra que quieres buscar, cuantas veces quieres buscarla
-COOKIE = '635f037f6628522e74445c37f8736dcfa401ecf7'
+COOKIE = ''
 WORD = sys.argv[1]
 N = int(sys.argv[2])
 
